@@ -1,5 +1,5 @@
 # bikecraftcaloi
-Landing page to CALOI interprise.
+Landing page to bike interprise.
 
 Projeto executado no curso de FrontEnd Origamid
 
